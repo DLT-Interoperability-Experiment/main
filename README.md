@@ -16,6 +16,10 @@ Integration of national PKI with DLT application for signing transactions
 Integration of national PKI with DLT Trust Store
 Second national PKI integration with DLT Trust Store for interoperable transaction signature between organizations in 2 countries
 
-2.  Call for collaboration
+2. Call for collaboration
 
 The editors of this document kindly invite other members and not members of the ITU to eventually collaborate with this experiment on a voluntary basis.
+
+3. Disclaimer
+
+All the work involved in this initiative takes place outside the ITU and on a voluntary basis. The results of this experiment will be shared in an ITU information document to assist this or future proposal for standards.
