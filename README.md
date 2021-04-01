@@ -1,5 +1,5 @@
 # README
-Interoperability Experiment Based on the “F.DLT-GTI DLT Governance Work Item and Technical Interoperability Framework” 
+Interoperability Experiment Based on the ITU standardization proposal “F.DLT-GTI DLT Governance Work Item and Technical Interoperability Framework” 
 
 1.2. Objective
 
@@ -18,4 +18,4 @@ Second national PKI integration with DLT Trust Store for interoperable transacti
 
 2.  Call for collaboration
 
-The editors of this document kindly invite other members of the ITU to eventually collaborate with this experiment on a voluntary basis.
+The editors of this document kindly invite other members and not members of the ITU to eventually collaborate with this experiment on a voluntary basis.
