@@ -13,9 +13,9 @@ Where the experiment was conducted;
 
 1.3. Phases of the experiment
 
-- Phase 1 Integration of national PKI with DLT application for signing transactions
-- Phase 2 Integration of national PKI with DLT Trust Store
-- Phase 3 Second national PKI integration with DLT Trust Store for interoperable transaction signature between organizations in 2 countries
+- Phase 1 | Integration of national PKI with DLT application for signing transactions
+- Phase 2 | Integration of national PKI with DLT Trust Store
+- Phase 3 | Second national PKI integration with DLT Trust Store for interoperable transaction signature between organizations in 2 countries
 
 2.1. Call for collaboration
 
