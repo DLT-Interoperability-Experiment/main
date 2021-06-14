@@ -49,6 +49,20 @@ dependencies {
 
     // CorDapp dependencies.
     cordapp project(":contracts")
+
+
+    //Demoiselle Signer Framework
+
+    // https://mvnrepository.com/artifact/org.demoiselle.signer/core
+    implementation group: 'org.demoiselle.signer', name: 'core', version: '3.6.4'
+
+    // https://mvnrepository.com/artifact/org.demoiselle.signer/chain-icp-brasil
+    testImplementation group: 'org.demoiselle.signer', name: 'chain-icp-brasil', version: '3.6.4'
+
+    // https://mvnrepository.com/artifact/org.demoiselle.signer/policy-impl-cades
+    implementation group: 'org.demoiselle.signer', name: 'policy-impl-cades', version: '3.6.4'
+
+
 }
 
 task integrationTest(type: Test, dependsOn: []) {
